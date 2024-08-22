@@ -134,19 +134,13 @@ To run this project, you will need:
 
 ### Installation
 
-1. **Install MySQL**
-
-   ```
-   https://dev.mysql.com/downloads/installer/
-   ```
-
-2. **Clone the repository:**
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/RohitPradhan108/Mumbai_Property_Price_Analysis_Project.git
    ```
 
-3. **Set up the MySQL database:**
+2. **Set up the MySQL database:**
 
    Import the cleaned dataset into your MySQL environment.
 
@@ -155,7 +149,7 @@ To run this project, you will need:
    USE mumbai_property;
    ```
 
-4. **Run SQL queries:**
+3. **Run SQL queries:**
 
    Execute the provided SQL queries to perform the analysis.
 
