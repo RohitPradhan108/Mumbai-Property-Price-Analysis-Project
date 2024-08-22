@@ -171,6 +171,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to Octoparse/99acres for providing the data.
 - Special thanks to the open-source community for tools and libraries that made this project possible.
 
----
-
-You can copy and paste this markdown into your README file, adjusting any specific details as needed.
